@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/capoomgit-houdini-mcp-badge.png)](https://mseep.ai/app/capoomgit-houdini-mcp)
+
 # HoudiniMCP – Connect Houdini to Claude Desktop or Cursor via Model Context Protocol
 
 **HoudiniMCP** allows you to control **SideFX Houdini** from **Claude Desktop** or **Cursor** using the **Model Context Protocol (MCP)**. It consists of:
